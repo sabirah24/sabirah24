@@ -18,6 +18,13 @@ An incoming senior at Baruch College majoring in Computer Information Systems an
 
 ---
 
+
+## 📂 Featured Projects
+
+None yet, will add soon.
+
+---
+
 ## 🤝 Connect with Me
 
 - 📧 Email: sabirah.habib@gmail.com  
