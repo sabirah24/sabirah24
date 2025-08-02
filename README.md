@@ -1,4 +1,4 @@
-## Hi there, I'm Sabirah 👋🏽
+## Hi there, I'm Sabirah 👋
 
 An incoming senior at Baruch College majoring in Computer Information Systems and minoring in Psychology. I’m interested in the fields of business and technology and how they can intersect to create solutions to real-world problems. I’m actively seeking internship opportunities in business, tech, data, and related fields. 
 
