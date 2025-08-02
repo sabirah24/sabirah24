@@ -1,6 +1,6 @@
 ## Hi there, I'm Sabirah 👋🏽
 
-An incoming senior at Baruch College majoring in Computer Information Systems and minoring in Psychology. I’m interested in the fields of business and technology and how they can intersect to create solutions to real-world problems. I’m actively seeking internship opportunities in business, tech, and related fields. Over the years, I’ve built a foundation in HTML, CSS, Python, and SQL, and honed my skills through programs like Break Through Tech, Girls Who Code, and CodePath. As a first-generation Bangladeshi-American woman in STEM, I’m driven to create more inclusive spaces in tech and empower underrepresented voices.
+An incoming senior at Baruch College majoring in Computer Information Systems and minoring in Psychology. I’m interested in the fields of business and technology and how they can intersect to create solutions to real-world problems. I’m actively seeking internship opportunities in business, tech, data, and related fields. Over the years, I’ve built a foundation in HTML, CSS, Python, and SQL, and honed my skills through programs like Break Through Tech, Girls Who Code, and CodePath. As a first-generation Bangladeshi-American woman in STEM, I’m driven to create more inclusive spaces in tech and empower underrepresented voices.
 
 
 🎓 Incoming Senior, BBA in Computer Information Systems  
