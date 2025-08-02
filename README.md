@@ -9,11 +9,11 @@ Over the years, I’ve built a foundation in HTML, CSS, Python, and SQL, and hon
 📍 Baruch College, NYC  
 💻 Interests: Data Science, Business, Project Management, Social Impact Tech  
 🌱 Currently learning: AI/ML, Scikit-learn  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sabirah-habib) | sabirah.habib@gmail.com
+💬 Reach me: [LinkedIn](https://www.linkedin.com/in/sabirah-habib) | sabirah.habib@gmail.com
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 Technical Skills
 
 **Languages:** Python, HTML/CSS, JavaScript, SQL   
 **Tools & Frameworks:** DBT, Snowflake, Mode BI, VS Code, JupyterLab  
@@ -30,8 +30,8 @@ None yet, will add soon.
 ## 🤝 Connect with Me
 
 - 📧 Email: sabirah.habib@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/sabirah-habib](https://www.linkedin.com/in/sabirah-habib)  
-- 📁 Portfolio: (Coming soon)
+- 👤 LinkedIn: [linkedin.com/in/sabirah-habib](https://www.linkedin.com/in/sabirah-habib)  
+- 💼 Portfolio: (Coming soon)
 
 ---
 
